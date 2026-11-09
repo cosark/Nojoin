@@ -46,6 +46,10 @@ You need Docker with Compose. An NVIDIA GPU is strongly recommended (GTX 16 or R
 
 Recording works in Chrome on Windows, Linux and macOS, in other Chromium browsers on Windows and Linux, and with the microphone only in Firefox, Safari and mobile browsers; the [capture guide](docs/CAPTURE.md) has the details. Reaching Nojoin from another device needs HTTPS through a reverse proxy, which [Remote Access](docs/DEPLOYMENT.md#remote-access-and-trusted-public-origin) covers. [Getting Started](docs/GETTING_STARTED.md) walks through the whole path.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Nojoin/)
+
 ## Managed Nojoin
 
 Nojoin's developer will set up an instance on a machine you own and look after its upgrades, monitoring and backups, for £24.99 a person a month from five people. See [Managed Nojoin](https://www.nojoin.co.uk/managed/).
